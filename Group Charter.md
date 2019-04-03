@@ -1,8 +1,11 @@
 # **Small Group Charter:** Brienne, Alex, and Jonelle
 
 ## **Member Roles:**
+
 Alex: Contributor
+
 Brienne: Contributor
+
 Jonelle: Contributor
 
 ## **Scholarly Goals of the Project:**

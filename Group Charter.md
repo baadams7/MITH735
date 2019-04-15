@@ -23,11 +23,17 @@ Jonelle: Detailed proposal for project Becky website, including sample interview
 ## **Project Management/Timeline:**
 
 4/2: by end of day: Team Charter Completed
+
 4/3: before class: Markdown completed
+
 4/9: Literature review sent to each other for review
+
 4/10: Literature review edits done by class
+
 4/10-4/17: Discussion over project wireframes/prototype
+
 4-18-5/14: Informal discussion of projects when needed
+
 5/15: Class presentations
 
 ## **Sustainability Considerations:**
